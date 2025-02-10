@@ -50,5 +50,5 @@ A Java-based application for managing personal finances, including balance track
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityagroverr&show_icons=true&theme=radical" alt="Aditya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityagrover111&show_icons=true&theme=radical" alt="Aditya's GitHub Stats" />
 </p>
