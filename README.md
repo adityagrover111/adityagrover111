@@ -1,4 +1,4 @@
-### Hi there, I'm Aditya Grover 👋
+### Hi there, I'm Aditya Grover 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" />
 
 ---
 
@@ -47,3 +47,7 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityagroverr&show_icons=true&theme=radical" alt="Aditya's GitHub Stats" />
+</p>
