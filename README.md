@@ -2,7 +2,7 @@
 
 🎓 **Computer Science (Honors)** student at the **University of Texas at Arlington**  
 💻 Passionate about **software development**, **problem-solving**, and **continuous learning**  
-⚡ Currently exploring **C**, **Java**, **JavaScript**, and **Generative AI**  
+⚡ Currently exploring  **React.js** and **Gen AI** 
 
 ---
 
@@ -17,29 +17,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
----
-
-## 🌟 Projects That I’m Proud Of
-
-### 🗂️ **File Compression Utility**  
-Efficiently reduces file sizes while maintaining data integrity.  
-⚡ *Focus:* Storage optimization & performance  
-📦 **Tech Stack:** C, Data Compression Algorithms  
-
----
-
-### 💬 **Stock Price Chatbot**  
-A chatbot that fetches stock price data from news articles using OpenAI’s API.  
-🤖 *Smart Search:* Accurate stock-related queries with source-based answers  
-🛠️ **Tech Stack:** Python, Streamlit, OpenAI API  
-
----
-
-### 💰 **Financial Calculator**  
-A Java-based application for managing personal finances, including balance tracking, loans, and basic banking features.  
-💡 *Features:* Simple UI, fast calculations, and real-time data updates  
-💼 **Tech Stack:** Java, OOP Concepts  
 
 ---
 
