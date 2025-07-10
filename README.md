@@ -27,5 +27,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityagrover111&show_icons=true&theme=radical" alt="Aditya's GitHub Stats" />
+ ## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityagrover111&show_icons=true&hide=prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityagrover111&layout=compact&theme=default&hide_title=true)
 </p>
